@@ -23,10 +23,10 @@ export default function Projects() {
       category: "Development",
       tags: ["React", "Tailwind"],
       image: "/portfolio.png",
-      gallery: ["/portfolio.png", "/portfolio-mobile.png"],
+      gallery: ["/portfolio.png", "/portfolio1.png", "/portfolio2.png"],
       desc: "A minimalist portfolio design focusing on smooth animations and futuristic UI elements.",
-      link: "#",
-      github: "#",
+      link: "https://janinduthedev.vercel.app/",
+      github: "https://github.com/janinduthedev/portfolio",
     },
     {
       id: 3,
