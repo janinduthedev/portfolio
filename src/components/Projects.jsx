@@ -15,7 +15,7 @@ export default function Projects() {
       gallery: ["/car.png", "/car-internal.png", "/car-dashboard.png"],
       desc: "A complete car rental solution with real-time booking and admin controls. Built with MERN stack for high performance and scalability.",
       link: "https://mern-car-rental-system-1.onrender.com",
-      github: "#",
+      github: "https://github.com/janinduthedev/mern-car-rental-system",
     },
     {
       id: 2,
