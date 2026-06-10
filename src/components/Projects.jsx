@@ -55,6 +55,17 @@ export default function Projects() {
       link: "#",
       github: "#",
     },
+    {
+      id: 5,
+      title: "Weather App",
+      category: "Development",
+      tags: ["React", "Tailwind"],
+      image: "/weather-app.png",
+      gallery: [],
+      desc: "A responsive weather application built with React and Vite. Features real-time weather data fetching using the OpenWeatherMap API, dynamic UI updates based on weather conditions, and secure API key handling using environment variables.",
+      link: "https://weather-app-2026-dev.vercel.app/",
+      github: "https://github.com/janinduthedev/weather-app",
+    },
   ];
 
   const openModal = (project) => {
